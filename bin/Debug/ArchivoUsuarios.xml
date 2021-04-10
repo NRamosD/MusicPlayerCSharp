@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <DataTable1>
+    <Nombre>jimmy</Nombre>
+    <Apellido>granizo</Apellido>
+    <CI>0604173732</CI>
+    <Cntr>jumilo</Cntr>
+  </DataTable1>
+  <DataTable1>
+    <Nombre>Nixon</Nombre>
+    <Apellido>Ramos</Apellido>
+    <CI>0801546490</CI>
+    <Cntr>123</Cntr>
+  </DataTable1>
+  <DataTable1>
+    <Nombre>Nix</Nombre>
+    <Apellido>asd</Apellido>
+    <CI>0804054187</CI>
+    <Cntr>123</Cntr>
+  </DataTable1>
+</DataSet1>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.TrabajoGrupal", "1.TrabajoGrupal.csproj", "{AF4DBED4-F2DF-4F44-AE39-B7D3130D78BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFReproductorMusica", "Proyecto\WFReproductorMusica\WFReproductorMusica\WFReproductorMusica.csproj", "{1CE68766-20BB-4B6D-AED4-E46FE890540B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF4DBED4-F2DF-4F44-AE39-B7D3130D78BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4DBED4-F2DF-4F44-AE39-B7D3130D78BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4DBED4-F2DF-4F44-AE39-B7D3130D78BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4DBED4-F2DF-4F44-AE39-B7D3130D78BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CE68766-20BB-4B6D-AED4-E46FE890540B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE68766-20BB-4B6D-AED4-E46FE890540B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE68766-20BB-4B6D-AED4-E46FE890540B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE68766-20BB-4B6D-AED4-E46FE890540B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {696509C1-D4CE-4EF9-91D0-DC069F743C83}
+	EndGlobalSection
+EndGlobal

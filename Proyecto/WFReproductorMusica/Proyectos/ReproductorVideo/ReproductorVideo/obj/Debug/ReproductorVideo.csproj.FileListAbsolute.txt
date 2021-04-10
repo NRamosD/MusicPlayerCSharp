@@ -1,0 +1,76 @@
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\bin\Debug\ReproductorVideo.exe.config
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\bin\Debug\ReproductorVideo.exe
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\bin\Debug\ReproductorVideo.pdb
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\bin\Debug\taglib-sharp.dll
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.frmVideo.resources
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.CopyComplete
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.exe
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.pdb
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\bin\Debug\MACTrackBarLib.dll
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\bin\Debug\Interop.WMPLib.dll
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\Interop.WMPLib.dll
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.ResolveComReference.cache
+C:\Users\nixon\Desktop\Nueva carpeta\ReproductorVideo\ReproductorVideo\bin\Debug\ReproductorVideo.exe.config
+C:\Users\nixon\Desktop\Nueva carpeta\ReproductorVideo\ReproductorVideo\bin\Debug\ReproductorVideo.exe
+C:\Users\nixon\Desktop\Nueva carpeta\ReproductorVideo\ReproductorVideo\bin\Debug\ReproductorVideo.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\ReproductorVideo\ReproductorVideo\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nixon\Desktop\Nueva carpeta\ReproductorVideo\ReproductorVideo\bin\Debug\MACTrackBarLib.dll
+C:\Users\nixon\Desktop\Nueva carpeta\ReproductorVideo\ReproductorVideo\bin\Debug\taglib-sharp.dll
+C:\Users\nixon\Desktop\Nueva carpeta\ReproductorVideo\ReproductorVideo\bin\Debug\Interop.WMPLib.dll
+C:\Users\nixon\Desktop\Nueva carpeta\ReproductorVideo\ReproductorVideo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nixon\Desktop\Nueva carpeta\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csprojAssemblyReference.cache
+C:\Users\nixon\Desktop\Nueva carpeta\ReproductorVideo\ReproductorVideo\obj\Debug\Interop.WMPLib.dll
+C:\Users\nixon\Desktop\Nueva carpeta\ReproductorVideo\ReproductorVideo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\nixon\Desktop\Nueva carpeta\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.ResolveComReference.cache
+C:\Users\nixon\Desktop\Nueva carpeta\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.frmVideo.resources
+C:\Users\nixon\Desktop\Nueva carpeta\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.Properties.Resources.resources
+C:\Users\nixon\Desktop\Nueva carpeta\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.GenerateResource.cache
+C:\Users\nixon\Desktop\Nueva carpeta\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.CoreCompileInputs.cache
+C:\Users\nixon\Desktop\Nueva carpeta\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.CopyComplete
+C:\Users\nixon\Desktop\Nueva carpeta\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.exe
+C:\Users\nixon\Desktop\Nueva carpeta\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.pdb
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\bin\Debug\ReproductorVideo.exe.config
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\bin\Debug\ReproductorVideo.exe
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\bin\Debug\ReproductorVideo.pdb
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\bin\Debug\FontAwesome.Sharp.dll
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\bin\Debug\MACTrackBarLib.dll
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\bin\Debug\taglib-sharp.dll
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\bin\Debug\Interop.WMPLib.dll
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\bin\Debug\AxInterop.WMPLib.dll
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csprojAssemblyReference.cache
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\Interop.WMPLib.dll
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\AxInterop.WMPLib.dll
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.ResolveComReference.cache
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.frmVideo.resources
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.Properties.Resources.resources
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.GenerateResource.cache
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.CopyComplete
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.exe
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.pdb
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\bin\Debug\ReproductorVideo.exe.config
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\bin\Debug\ReproductorVideo.exe
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\bin\Debug\ReproductorVideo.pdb
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\bin\Debug\MACTrackBarLib.dll
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\bin\Debug\taglib-sharp.dll
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\bin\Debug\Interop.WMPLib.dll
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csprojAssemblyReference.cache
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\Interop.WMPLib.dll
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.ResolveComReference.cache
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.frmVideo.resources
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.Properties.Resources.resources
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.GenerateResource.cache
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.CoreCompileInputs.cache
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.CopyComplete
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.exe
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\Proyectos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.pdb

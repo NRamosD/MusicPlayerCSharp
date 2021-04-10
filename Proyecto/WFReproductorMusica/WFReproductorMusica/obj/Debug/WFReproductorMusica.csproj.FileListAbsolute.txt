@@ -1,0 +1,104 @@
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\bin\Debug\WFReproductorMusica.exe.config
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\bin\Debug\WFReproductorMusica.exe
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\bin\Debug\WFReproductorMusica.pdb
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.csprojAssemblyReference.cache
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.Form1.resources
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.Properties.Resources.resources
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.csproj.GenerateResource.cache
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.csproj.CoreCompileInputs.cache
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.exe
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.pdb
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.FormConfig.resources
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\bin\Debug\ReproductorVideo.exe
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\bin\Debug\taglib-sharp.dll
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\bin\Debug\MACTrackBarLib.dll
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\bin\Debug\Interop.WMPLib.dll
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\bin\Debug\ReproductorVideo.pdb
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\bin\Debug\ReproductorVideo.exe.config
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.csproj.CopyComplete
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\bin\Debug\WinAppMyMusic.exe
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\bin\Debug\TagLibSharp.dll
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\bin\Debug\WinAppMyMusic.pdb
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\bin\Debug\WinAppMyMusic.exe.config
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\bin\Debug\TagLibSharp.pdb
+C:\Users\nixon\Desktop\Apli Inform\Ejercicios\WFReproductorMusica\WFReproductorMusica\bin\Debug\TagLibSharp.xml
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\WFReproductorMusica.exe.config
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\WFReproductorMusica.exe
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\WFReproductorMusica.pdb
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\ReproductorVideo.exe
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\WinAppMyMusic.exe
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\taglib-sharp.dll
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\FontAwesome.Sharp.dll
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\MACTrackBarLib.dll
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\AxInterop.WMPLib.dll
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\Interop.WMPLib.dll
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\TagLibSharp.dll
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\ReproductorVideo.pdb
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\ReproductorVideo.exe.config
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\WinAppMyMusic.pdb
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\WinAppMyMusic.exe.config
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\TagLibSharp.pdb
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\TagLibSharp.xml
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.csprojAssemblyReference.cache
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.Form1.resources
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.FormConfig.resources
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.Properties.Resources.resources
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.csproj.GenerateResource.cache
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.csproj.CopyComplete
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.exe
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.pdb
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\WFReproductorMusica.exe.config
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\WFReproductorMusica.exe
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\WFReproductorMusica.pdb
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\ReproductorVideo.exe
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\WinAppMyMusic.exe
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\taglib-sharp.dll
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\MACTrackBarLib.dll
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\Interop.WMPLib.dll
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\TagLibSharp.dll
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\ReproductorVideo.pdb
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\ReproductorVideo.exe.config
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\WinAppMyMusic.pdb
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\WinAppMyMusic.exe.config
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\TagLibSharp.pdb
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\TagLibSharp.xml
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.csprojAssemblyReference.cache
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.Form1.resources
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.FormConfig.resources
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.Properties.Resources.resources
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.csproj.GenerateResource.cache
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.csproj.CoreCompileInputs.cache
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.csproj.CopyComplete
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.exe
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.pdb
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\WFReproductorMusica.exe.config
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\WFReproductorMusica.exe
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\WFReproductorMusica.pdb
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\ReproductorVideo.exe
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\WinAppMyMusic.exe
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\taglib-sharp.dll
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\MACTrackBarLib.dll
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\Interop.WMPLib.dll
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\TagLibSharp.dll
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\ReproductorVideo.pdb
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\ReproductorVideo.exe.config
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\WinAppMyMusic.pdb
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\WinAppMyMusic.exe.config
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\TagLibSharp.pdb
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\bin\Debug\TagLibSharp.xml
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.csprojAssemblyReference.cache
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.Form1.resources
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.FormConfig.resources
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.Properties.Resources.resources
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.csproj.GenerateResource.cache
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.csproj.CoreCompileInputs.cache
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.csproj.CopyComplete
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.exe
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\Proyecto\WFReproductorMusica\WFReproductorMusica\obj\Debug\WFReproductorMusica.pdb

@@ -1,0 +1,237 @@
+C:\Users\jgran\source\repos\1.TrabajoGrupal\bin\Debug\1.TrabajoGrupal.exe.config
+C:\Users\jgran\source\repos\1.TrabajoGrupal\bin\Debug\1.TrabajoGrupal.exe
+C:\Users\jgran\source\repos\1.TrabajoGrupal\bin\Debug\1.TrabajoGrupal.pdb
+C:\Users\jgran\source\repos\1.TrabajoGrupal\obj\Debug\1.TrabajoGrupal.csprojAssemblyReference.cache
+C:\Users\jgran\source\repos\1.TrabajoGrupal\obj\Debug\_1.TrabajoGrupal.Form1.resources
+C:\Users\jgran\source\repos\1.TrabajoGrupal\obj\Debug\_1.TrabajoGrupal.Form2.resources
+C:\Users\jgran\source\repos\1.TrabajoGrupal\obj\Debug\_1.TrabajoGrupal.Properties.Resources.resources
+C:\Users\jgran\source\repos\1.TrabajoGrupal\obj\Debug\1.TrabajoGrupal.csproj.GenerateResource.cache
+C:\Users\jgran\source\repos\1.TrabajoGrupal\obj\Debug\1.TrabajoGrupal.csproj.CoreCompileInputs.cache
+C:\Users\jgran\source\repos\1.TrabajoGrupal\obj\Debug\1.TrabajoGrupal.exe
+C:\Users\jgran\source\repos\1.TrabajoGrupal\obj\Debug\1.TrabajoGrupal.pdb
+C:\Users\jgran\source\repos\1.TrabajoGrupal\bin\Debug\Guna.UI.dll
+C:\Users\jgran\source\repos\1.TrabajoGrupal\obj\Debug\1.TrabajoGrupal.csproj.CopyComplete
+C:\Users\jgran\source\repos\1.TrabajoGrupal\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\jgran\source\repos2\TrabajoGrupal\bin\Debug\1.TrabajoGrupal.exe.config
+C:\Users\jgran\source\repos2\TrabajoGrupal\bin\Debug\1.TrabajoGrupal.exe
+C:\Users\jgran\source\repos2\TrabajoGrupal\bin\Debug\1.TrabajoGrupal.pdb
+C:\Users\jgran\source\repos2\TrabajoGrupal\obj\Debug\1.TrabajoGrupal.csprojAssemblyReference.cache
+C:\Users\jgran\source\repos2\TrabajoGrupal\obj\Debug\_1.TrabajoGrupal.Form1.resources
+C:\Users\jgran\source\repos2\TrabajoGrupal\obj\Debug\_1.TrabajoGrupal.Form2.resources
+C:\Users\jgran\source\repos2\TrabajoGrupal\obj\Debug\_1.TrabajoGrupal.Properties.Resources.resources
+C:\Users\jgran\source\repos2\TrabajoGrupal\obj\Debug\1.TrabajoGrupal.csproj.GenerateResource.cache
+C:\Users\jgran\source\repos2\TrabajoGrupal\obj\Debug\1.TrabajoGrupal.csproj.CoreCompileInputs.cache
+C:\Users\jgran\source\repos2\TrabajoGrupal\obj\Debug\1.TrabajoGrupal.csproj.CopyComplete
+C:\Users\jgran\source\repos2\TrabajoGrupal\obj\Debug\1.TrabajoGrupal.exe
+C:\Users\jgran\source\repos2\TrabajoGrupal\obj\Debug\1.TrabajoGrupal.pdb
+C:\Users\jgran\source\repos2\TrabajoGrupal\obj\Debug\_1.TrabajoGrupal.Form3.resources
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\bin\Debug\1.TrabajoGrupal.exe.config
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\bin\Debug\1.TrabajoGrupal.exe
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\bin\Debug\1.TrabajoGrupal.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\obj\Debug\1.TrabajoGrupal.csprojAssemblyReference.cache
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\obj\Debug\_1.TrabajoGrupal.Form1.resources
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\obj\Debug\_1.TrabajoGrupal.Form2.resources
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\obj\Debug\_1.TrabajoGrupal.Form3.resources
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\obj\Debug\_1.TrabajoGrupal.Properties.Resources.resources
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\obj\Debug\1.TrabajoGrupal.csproj.GenerateResource.cache
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\obj\Debug\1.TrabajoGrupal.csproj.CoreCompileInputs.cache
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\obj\Debug\1.TrabajoGrupal.csproj.CopyComplete
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\obj\Debug\1.TrabajoGrupal.exe
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\obj\Debug\1.TrabajoGrupal.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\bin\Debug\WFReproductorMusica.exe
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\bin\Debug\ReproductorVideo.exe
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\bin\Debug\WinAppMyMusic.exe
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\bin\Debug\taglib-sharp.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\bin\Debug\MACTrackBarLib.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\bin\Debug\Interop.WMPLib.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\bin\Debug\TagLibSharp.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\bin\Debug\WFReproductorMusica.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\bin\Debug\WFReproductorMusica.exe.config
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\bin\Debug\ReproductorVideo.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\bin\Debug\ReproductorVideo.exe.config
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\bin\Debug\WinAppMyMusic.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\bin\Debug\WinAppMyMusic.exe.config
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\bin\Debug\TagLibSharp.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupal\bin\Debug\TagLibSharp.xml
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\obj\Debug\1.TrabajoGrupal.csprojAssemblyReference.cache
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\obj\Debug\_1.TrabajoGrupal.Form1.resources
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\obj\Debug\_1.TrabajoGrupal.Form2.resources
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\obj\Debug\_1.TrabajoGrupal.Form3.resources
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\obj\Debug\_1.TrabajoGrupal.Properties.Resources.resources
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\obj\Debug\1.TrabajoGrupal.csproj.GenerateResource.cache
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\obj\Debug\1.TrabajoGrupal.csproj.CoreCompileInputs.cache
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\obj\Debug\1.TrabajoGrupal.exe
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\obj\Debug\1.TrabajoGrupal.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\bin\Debug\1.TrabajoGrupal.exe.config
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\bin\Debug\1.TrabajoGrupal.exe
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\bin\Debug\1.TrabajoGrupal.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\bin\Debug\WFReproductorMusica.exe
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\bin\Debug\ReproductorVideo.exe
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\bin\Debug\WinAppMyMusic.exe
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\bin\Debug\taglib-sharp.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\bin\Debug\MACTrackBarLib.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\bin\Debug\Interop.WMPLib.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\bin\Debug\TagLibSharp.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\bin\Debug\WFReproductorMusica.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\bin\Debug\WFReproductorMusica.exe.config
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\bin\Debug\ReproductorVideo.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\bin\Debug\ReproductorVideo.exe.config
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\bin\Debug\WinAppMyMusic.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\bin\Debug\WinAppMyMusic.exe.config
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\bin\Debug\TagLibSharp.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\bin\Debug\TagLibSharp.xml
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal\obj\Debug\1.TrabajoGrupal.csproj.CopyComplete
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\bin\Debug\1.TrabajoGrupal.exe.config
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\bin\Debug\1.TrabajoGrupal.exe
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\bin\Debug\1.TrabajoGrupal.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\bin\Debug\WFReproductorMusica.exe
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\bin\Debug\ReproductorVideo.exe
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\bin\Debug\WinAppMyMusic.exe
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\bin\Debug\taglib-sharp.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\bin\Debug\MACTrackBarLib.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\bin\Debug\TagLibSharp.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\bin\Debug\WFReproductorMusica.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\bin\Debug\WFReproductorMusica.exe.config
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\bin\Debug\ReproductorVideo.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\bin\Debug\ReproductorVideo.exe.config
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\bin\Debug\WinAppMyMusic.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\bin\Debug\WinAppMyMusic.exe.config
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\bin\Debug\TagLibSharp.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\bin\Debug\TagLibSharp.xml
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\obj\Debug\1.TrabajoGrupal.csprojAssemblyReference.cache
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\obj\Debug\_1.TrabajoGrupal.Form1.resources
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\obj\Debug\_1.TrabajoGrupal.Form2.resources
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\obj\Debug\_1.TrabajoGrupal.Form3.resources
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\obj\Debug\_1.TrabajoGrupal.Properties.Resources.resources
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\obj\Debug\1.TrabajoGrupal.csproj.GenerateResource.cache
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\obj\Debug\1.TrabajoGrupal.csproj.CoreCompileInputs.cache
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\obj\Debug\1.TrabajoGrupal.csproj.CopyComplete
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\obj\Debug\1.TrabajoGrupal.exe
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 2.0\obj\Debug\1.TrabajoGrupal.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\bin\Debug\1.TrabajoGrupal.exe.config
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\bin\Debug\1.TrabajoGrupal.exe
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\bin\Debug\1.TrabajoGrupal.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\bin\Debug\WFReproductorMusica.exe
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\bin\Debug\ReproductorVideo.exe
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\bin\Debug\WinAppMyMusic.exe
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\bin\Debug\taglib-sharp.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\bin\Debug\MACTrackBarLib.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\bin\Debug\TagLibSharp.dll
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\bin\Debug\WFReproductorMusica.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\bin\Debug\WFReproductorMusica.exe.config
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\bin\Debug\ReproductorVideo.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\bin\Debug\ReproductorVideo.exe.config
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\bin\Debug\WinAppMyMusic.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\bin\Debug\WinAppMyMusic.exe.config
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\bin\Debug\TagLibSharp.pdb
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\bin\Debug\TagLibSharp.xml
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\obj\Debug\1.TrabajoGrupal.csprojAssemblyReference.cache
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\obj\Debug\_1.TrabajoGrupal.Form1.resources
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\obj\Debug\_1.TrabajoGrupal.Form2.resources
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\obj\Debug\_1.TrabajoGrupal.Form3.resources
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\obj\Debug\_1.TrabajoGrupal.Properties.Resources.resources
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\obj\Debug\1.TrabajoGrupal.csproj.GenerateResource.cache
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\obj\Debug\1.TrabajoGrupal.csproj.CoreCompileInputs.cache
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\obj\Debug\1.TrabajoGrupal.csproj.CopyComplete
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\obj\Debug\1.TrabajoGrupal.exe
+C:\Users\nixon\Desktop\Nueva carpeta\TrabajoGrupalSemifinal 3.0\obj\Debug\1.TrabajoGrupal.pdb
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\bin\Debug\1.TrabajoGrupal.exe.config
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\bin\Debug\1.TrabajoGrupal.exe
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\bin\Debug\1.TrabajoGrupal.pdb
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\bin\Debug\WFReproductorMusica.exe
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\bin\Debug\ReproductorVideo.exe
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\bin\Debug\WinAppMyMusic.exe
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\bin\Debug\taglib-sharp.dll
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\bin\Debug\FontAwesome.Sharp.dll
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\bin\Debug\MACTrackBarLib.dll
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\bin\Debug\AxInterop.WMPLib.dll
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\bin\Debug\Interop.WMPLib.dll
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\bin\Debug\TagLibSharp.dll
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\bin\Debug\WFReproductorMusica.pdb
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\bin\Debug\WFReproductorMusica.exe.config
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\bin\Debug\ReproductorVideo.pdb
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\bin\Debug\ReproductorVideo.exe.config
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\bin\Debug\WinAppMyMusic.pdb
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\bin\Debug\WinAppMyMusic.exe.config
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\bin\Debug\TagLibSharp.pdb
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\bin\Debug\TagLibSharp.xml
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\obj\Debug\1.TrabajoGrupal.csprojAssemblyReference.cache
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\obj\Debug\_1.TrabajoGrupal.Form1.resources
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\obj\Debug\_1.TrabajoGrupal.Form2.resources
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\obj\Debug\_1.TrabajoGrupal.Form3.resources
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\obj\Debug\_1.TrabajoGrupal.Properties.Resources.resources
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\obj\Debug\1.TrabajoGrupal.csproj.GenerateResource.cache
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\obj\Debug\1.TrabajoGrupal.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\obj\Debug\1.TrabajoGrupal.csproj.CopyComplete
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\obj\Debug\1.TrabajoGrupal.exe
+D:\SOFTWARE\QUINTO\APLICACIONES INFORMATICAS 1\Tareas\Grupales\Parcial 1\TrabajoGrupalSemifinal 4.0\obj\Debug\1.TrabajoGrupal.pdb
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\bin\Debug\1.TrabajoGrupal.exe.config
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\bin\Debug\1.TrabajoGrupal.exe
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\bin\Debug\1.TrabajoGrupal.pdb
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\bin\Debug\WFReproductorMusica.exe
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\bin\Debug\ReproductorVideo.exe
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\bin\Debug\WinAppMyMusic.exe
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\bin\Debug\taglib-sharp.dll
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\bin\Debug\MACTrackBarLib.dll
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\bin\Debug\TagLibSharp.dll
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\bin\Debug\WFReproductorMusica.pdb
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\bin\Debug\WFReproductorMusica.exe.config
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\bin\Debug\ReproductorVideo.pdb
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\bin\Debug\ReproductorVideo.exe.config
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\bin\Debug\WinAppMyMusic.pdb
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\bin\Debug\WinAppMyMusic.exe.config
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\bin\Debug\TagLibSharp.pdb
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\bin\Debug\TagLibSharp.xml
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\obj\Debug\1.TrabajoGrupal.csprojAssemblyReference.cache
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\obj\Debug\_1.TrabajoGrupal.Form1.resources
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\obj\Debug\_1.TrabajoGrupal.Form2.resources
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\obj\Debug\_1.TrabajoGrupal.Form3.resources
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\obj\Debug\_1.TrabajoGrupal.Properties.Resources.resources
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\obj\Debug\1.TrabajoGrupal.csproj.GenerateResource.cache
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\obj\Debug\1.TrabajoGrupal.csproj.CoreCompileInputs.cache
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\obj\Debug\1.TrabajoGrupal.csproj.CopyComplete
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\obj\Debug\1.TrabajoGrupal.exe
+C:\Users\nixon\Desktop\TrabajoGrupalSemifinal 4.0\obj\Debug\1.TrabajoGrupal.pdb
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\bin\Debug\1.TrabajoGrupal.exe.config
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\bin\Debug\1.TrabajoGrupal.exe
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\bin\Debug\1.TrabajoGrupal.pdb
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\bin\Debug\WFReproductorMusica.exe
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\bin\Debug\ReproductorVideo.exe
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\bin\Debug\WinAppMyMusic.exe
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\bin\Debug\taglib-sharp.dll
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\bin\Debug\MACTrackBarLib.dll
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\bin\Debug\Interop.WMPLib.dll
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\bin\Debug\TagLibSharp.dll
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\bin\Debug\WFReproductorMusica.pdb
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\bin\Debug\WFReproductorMusica.exe.config
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\bin\Debug\ReproductorVideo.pdb
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\bin\Debug\ReproductorVideo.exe.config
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\bin\Debug\WinAppMyMusic.pdb
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\bin\Debug\WinAppMyMusic.exe.config
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\bin\Debug\TagLibSharp.pdb
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\bin\Debug\TagLibSharp.xml
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\obj\Debug\1.TrabajoGrupal.csprojAssemblyReference.cache
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\obj\Debug\_1.TrabajoGrupal.Form1.resources
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\obj\Debug\_1.TrabajoGrupal.Form2.resources
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\obj\Debug\_1.TrabajoGrupal.Form3.resources
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\obj\Debug\_1.TrabajoGrupal.Properties.Resources.resources
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\obj\Debug\1.TrabajoGrupal.csproj.GenerateResource.cache
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\obj\Debug\1.TrabajoGrupal.csproj.CoreCompileInputs.cache
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\obj\Debug\1.TrabajoGrupal.csproj.CopyComplete
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\obj\Debug\1.TrabajoGrupal.exe
+C:\Users\nixon\Desktop\TrabajoGrupaFinal\obj\Debug\1.TrabajoGrupal.pdb
